@@ -1,0 +1,9 @@
+# Site settings
+title: Fantastic New Blog Test
+author:
+  name: René van Balen
+  email: your-email@domain.com
+description: "Great site about Me on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
